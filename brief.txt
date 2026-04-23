@@ -1,0 +1,544 @@
+REVERSE-ENGINEERED CREATIVE BRIEF + BRAND KIT
+Project: Gannon Compass
+Source reviewed: https://compass.puspa.store/
+Prepared: 2026-04-23
+
+IMPORTANT NOTE
+This brief is reverse-engineered from the live site’s visible content, structure, and linked imagery.
+Exact CSS values and exact font files were not directly exposed during review, so the color system and type system below are practical recreation targets rather than guaranteed source-code extractions.
+
+==================================================
+1. ONE-LINE SUMMARY
+==================================================
+Gannon Compass is a student-first campus guide for Gannon University that packages practical college life information into an editorial, confident, friendly, and highly skimmable digital experience.
+
+==================================================
+2. BRAND ESSENCE
+==================================================
+Brand name:
+Gannon Compass
+
+Positioning:
+A student-built campus utility brand that helps Gannon students make better day-to-day decisions about where to eat, where to study, what is happening on campus, and how to handle academic work.
+
+Brand promise:
+Useful campus guidance, fast.
+
+Core idea:
+"Your compass at Gannon" = orientation, direction, confidence, and local student knowledge.
+
+Brand role:
+Part campus guide
+Part peer mentor
+Part student editorial platform
+Part practical survival kit
+
+Personality:
+Helpful
+Confident
+Student-native
+Direct
+Encouraging
+Slightly witty
+Unpretentious
+Local to Erie
+
+Brand archetype blend:
+The Guide + The Friend + The Editor
+
+==================================================
+3. TARGET AUDIENCE
+==================================================
+Primary audience:
+Current Gannon students, especially undergraduates who want fast answers about campus life.
+
+Secondary audience:
+Incoming students
+Transfer students
+Student contributors
+Campus organizations that may want events listed
+
+Likely user motivations:
+I need a good place to study right now.
+I need food without wasting time.
+I want to know what is worth going to.
+I need academic advice that feels realistic.
+I want student recommendations, not official brochure language.
+
+==================================================
+4. VALUE PROPOSITION
+==================================================
+The site turns scattered campus knowledge into one clear, student-friendly destination.
+
+What it gives users:
+A curated dining guide
+Study-spot recommendations with “best for” framing
+Event discovery
+Academic tips adapted to campus life
+A feedback/contact path so the platform feels participatory
+
+Functional value:
+Saves time
+Reduces uncertainty
+Improves campus navigation
+Makes useful information feel current and human
+
+Emotional value:
+Belonging
+Confidence
+Preparedness
+Insider access
+
+==================================================
+5. MESSAGE ARCHITECTURE
+==================================================
+Primary message:
+This is the practical student guide to life at Gannon.
+
+Supporting messages:
+Built by students, for students.
+Campus life can be easier when information is organized well.
+The content is curated, not generic.
+This is useful right now, not someday.
+Students can contribute and improve it.
+
+Proof points used by the site:
+Counts/stat tiles
+Specific dining details
+Specific study spot descriptions
+Specific event listings
+Study and writing guidance
+Visible contact details and contribution prompts
+
+==================================================
+6. BRAND VOICE
+==================================================
+Tone profile:
+Sharp but warm
+Student-savvy
+Editorial
+Action-oriented
+Non-corporate
+Lightly humorous
+High clarity
+
+Writing characteristics:
+Short headline blocks
+Strong verbs
+Concrete specifics
+Tight scannable blurbs
+Occasional playful phrasing
+No bloated institutional language
+
+Copy style rules:
+Prefer plain English over admin speak.
+Lead with usefulness.
+Use sentence fragments intentionally for scannability.
+Use labels like “Best for,” “Meal swipe,” and “This weekend.”
+Keep blurbs short and opinionated enough to feel human.
+Write with confidence, not apology.
+
+Sample voice lines in the brand’s lane:
+Find the spot that fits your deadline, not just your mood.
+Skip the guesswork.
+Campus info, but actually useful.
+Built for the Gannon grind.
+
+==================================================
+7. CONTENT PILLARS
+==================================================
+1. Dining
+Purpose: remove uncertainty around food options
+Content pattern: place name, payment type, hours, location, short opinionated summary
+
+2. Study Spots
+Purpose: help students match environment to task
+Content pattern: image, “best for,” vibe labels, practical description
+
+3. Events
+Purpose: surface relevant campus happenings
+Content pattern: category, date, time, location, why it matters
+
+4. Academic Tips
+Purpose: turn generic study advice into useful campus-specific guidance
+Content pattern: short principle + one practical explanation + link to more
+
+5. Contact / Contributions
+Purpose: make the site feel alive and community-fed
+Content pattern: prompts for missing spots, events, or tips
+
+==================================================
+8. INFORMATION ARCHITECTURE
+==================================================
+Top-level nav seen on site:
+Home
+Dining
+Study Spots
+Events
+Tips
+Contact
+
+Likely site hierarchy:
+Home
+  Hero
+  Stats
+  Dining preview
+  Study spot preview
+  Event preview
+  Tips preview
+  Contact / submission form
+Dining
+  Full listings and map
+Study Spots
+  Full spot directory
+Events
+  Calendar and featured listings
+Tips
+  Topic-based academic advice
+Contact
+  Feedback / contribution form
+
+IA pattern:
+A clear landing page with preview modules for each major content lane.
+Users can scan vertically and then drill down horizontally into the section they need.
+
+==================================================
+9. HOMEPAGE UX MODEL
+==================================================
+Hero strategy:
+Big promise + immediate utility + clear CTA paths.
+
+Hero job to be done:
+Orient first-time users in seconds.
+
+Hero content pattern:
+Small credibility line
+Large headline
+Short explanatory paragraph
+Primary CTA
+Secondary CTA
+Quick proof metrics
+
+Mid-page structure:
+Section-by-section content cards with clear labels and strong section intros.
+
+Interaction model:
+Browse by need, not by institution.
+The site behaves like an editorial campus dashboard rather than a university directory.
+
+Usability strengths:
+Fast scanning
+Clear hierarchy
+Practical labels
+Specific utility cues
+Strong modularity
+
+==================================================
+10. VISUAL IDENTITY OVERVIEW
+==================================================
+Overall design direction:
+Modern editorial campus guide
+Clean web UI
+Student media energy
+Institutional roots without feeling official or stiff
+
+Visual mood:
+Focused
+Local
+Warm
+Credible
+Lived-in
+Practical
+
+Design language:
+Bold hero messaging
+Clean section blocks
+Card-driven previews
+Short metadata chips / labels
+Campus photography used as evidence and atmosphere
+
+==================================================
+11. COLOR SYSTEM (REVERSE-ENGINEERED)
+==================================================
+A. Core brand direction
+The strongest brand anchor is Gannon’s maroon-and-gold identity, translated into a more modern, editorial web experience.
+
+B. Recreation palette
+These are practical recreation values, not guaranteed source-code values.
+
+Primary Maroon
+Hex: #862633
+Use for: brand anchors, emphasis, section accents, buttons, small highlights
+
+Accent Gold
+Hex: #F1B434
+Use for: secondary accents, warmth, badges, subtle emphasis
+
+Off-White / Warm Canvas
+Hex: #F7F4EE
+Use for: page backgrounds, large breathing areas
+
+Charcoal / Ink
+Hex: #111111
+Use for: headings, primary text, strong contrast
+
+Slate
+Hex: #4C5762
+Use for: secondary text, dividers, subdued interface elements
+
+Stone
+Hex: #CCC9B8
+Use for: card surfaces, borders, muted backgrounds
+
+Warm Gray
+Hex: #918F8A
+Use for: metadata, low-emphasis labels
+
+Campus Rust
+Hex: #712C27
+Use for: occasional warm accent pulled from campus seating/brick imagery
+
+Olive Support
+Hex: #7D8A4A
+Use for: environmental accent pulled from campus interiors and landscape tones
+
+Blue-Gray Light
+Hex: #C3C9C1
+Use for: quiet panels and spacious neutral fills
+
+C. Practical usage guidance
+Neutrals should dominate the UI.
+Maroon should function as the strongest branded accent.
+Gold should be used sparingly so it feels premium, not noisy.
+Photography can introduce environmental warmth: brick, rust, olive, slate, daylight.
+
+Suggested ratio for recreation:
+65% neutrals
+20% dark text / charcoal
+10% maroon
+5% gold and environmental accents
+
+==================================================
+12. TYPOGRAPHY SYSTEM (INFERRED)
+==================================================
+Exact site font files were not directly available, but the visible experience suggests this direction:
+
+Headlines:
+Modern sans-serif
+Bold to extra-bold
+Large scale
+Tight, confident line breaks
+
+Body copy:
+Readable sans-serif
+Neutral, contemporary, unornamented
+Optimized for quick scanning
+
+Recommended recreation pairing:
+Heading option:
+Inter Tight, Archivo, or Sora in bold weights
+
+Body option:
+Inter, Public Sans, or Manrope
+
+Type behavior:
+Large hero headline
+Strong section titles
+Compact metadata labels
+Comfortable paragraph width
+High contrast and generous spacing
+
+==================================================
+13. IMAGERY DIRECTION
+==================================================
+Photography style:
+Real campus photography
+Natural light
+Everyday student spaces
+Not overly polished
+Not stock-heavy
+Evidence-based and believable
+
+Image subjects used well by the brand:
+Study environments
+Campus interiors
+Library zones
+Food spaces
+Event environments
+Recognizable local/campus details
+
+Image function:
+Show real places
+Build trust
+Add warmth
+Make recommendations feel verified
+
+Art direction keywords:
+Daylight
+Architectural framing
+Quiet candid realism
+Campus texture
+Brick / glass / seating / tables / windows
+
+==================================================
+14. COMPONENT LIBRARY INVENTORY
+==================================================
+Key components implied by the site:
+Top navigation bar
+Hero block
+Dual CTA set
+Stat tiles
+Section intro blocks
+Content cards
+Metadata tags / chips
+Event cards with dates and categories
+Tip cards with short summaries
+Contact / feedback form
+Footer with navigation and resources
+
+Component behavior notes:
+Cards should feel modular and reusable.
+Metadata should be concise and visual.
+Each section should preview enough information to be useful before click-through.
+
+==================================================
+15. LAYOUT SYSTEM
+==================================================
+Likely layout principles:
+Single-column homepage flow with sectional modules
+Contained content width
+Large vertical spacing between sections
+Strong contrast between headline and supporting text
+Grid/card systems inside modules
+
+Layout tone:
+Organized
+Confident
+Easy to skim
+No clutter
+Editorial rather than app-heavy
+
+==================================================
+16. CTA STRATEGY
+==================================================
+Primary CTA behavior:
+Get users into useful content quickly.
+
+Secondary CTA behavior:
+Offer adjacent value without friction.
+
+CTA tone:
+Direct
+Student-friendly
+Low ceremony
+Clear verbs
+
+Common CTA themes:
+Explore
+Read the guide
+View full calendar
+See the map
+Send message
+
+==================================================
+17. DIFFERENTIATORS
+==================================================
+What makes the brand distinct:
+It sounds like students, not administration.
+It combines practical logistics with editorial curation.
+It turns ordinary campus information into a navigable lifestyle guide.
+It uses framing like “best for” and “what actually fits your Tuesday,” which feels human and situational.
+It invites community contribution, which makes the brand feel alive.
+
+==================================================
+18. ACCESSIBILITY + UX NOTES
+==================================================
+The recreation should preserve:
+High text contrast
+Large readable headings
+Clear labels
+Obvious clickable targets
+Simple navigation language
+Consistent card structure
+Alt text for campus photos
+Accessible form labels and states
+
+Recommended accessibility targets:
+WCAG AA contrast minimums
+Keyboard navigable menus and forms
+Visible focus states
+Plain-language labels
+No essential information hidden only by color
+
+==================================================
+19. SEO / META POSITIONING
+==================================================
+Suggested title direction:
+Gannon Compass | Student Guide to Gannon University
+
+Suggested meta description direction:
+Student-built guide to dining, study spots, events, and academic tips for life at Gannon University.
+
+Search intent clusters:
+Gannon dining
+Gannon study spots
+Gannon events
+Gannon academic resources
+student guide Gannon University
+
+==================================================
+20. RECREATION GUIDELINES FOR DESIGN OR BUILD
+==================================================
+If rebuilding or extending the brand, keep these truths intact:
+
+1. Usefulness beats decoration.
+2. Voice should sound like a smart student editor.
+3. Every section should answer a practical question.
+4. Photography should feel real and local.
+5. Maroon-and-gold identity should be present but restrained.
+6. Layout should prioritize scan speed.
+7. Cards and labels should do most of the UX work.
+8. The experience should feel current, participatory, and credible.
+
+==================================================
+21. QUICK CREATIVE DIRECTION IN ONE PARAGRAPH
+==================================================
+Create a student-first campus guide brand that feels like the intersection of a university survival guide, a student newspaper feature package, and a clean editorial web product. Use a restrained neutral base, maroon as the primary brand accent, gold sparingly, and real campus imagery for proof and warmth. Write in short, practical, slightly witty copy. Organize information around immediate student needs: food, focus, events, and academic success. The final experience should feel useful in under ten seconds.
+
+==================================================
+22. SHORT BRAND KIT SNAPSHOT
+==================================================
+Brand:
+Gannon Compass
+
+Tagline territory:
+Your compass at Gannon.
+
+Tone:
+Helpful, direct, student-native, editorial
+
+Core colors:
+Maroon #862633
+Gold #F1B434
+Warm canvas #F7F4EE
+Ink #111111
+Slate #4C5762
+Stone #CCC9B8
+
+Type direction:
+Bold modern sans headlines
+Clean readable sans body copy
+
+Visual assets:
+Real campus photography
+Card-based layout
+Clear metadata labels
+Strong section intros
+
+Primary themes:
+Dining
+Study spots
+Events
+Academic tips
+Student contribution
+

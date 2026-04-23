@@ -1,0 +1,38 @@
+{
+  "pipeline": "/animated-website",
+  "generatedAt": "2026-04-23T00:00:00Z",
+  "briefSource": "brief.txt",
+  "mcp": {
+    "stitch": "skipped",
+    "firecrawl": "fired",
+    "magic": "skipped"
+  },
+  "skills": {
+    "brand": "skipped",
+    "ui-ux-pro-max": "skipped",
+    "design-system": "skipped",
+    "design": "fell-back",
+    "ui-styling": "fell-back",
+    "frontend-design": "fired",
+    "nano-banana-2": "skipped"
+  },
+  "images": {
+    "hero-compass-rose": "tier-3",
+    "logo": "tier-3",
+    "study-courtyard": "tier-3",
+    "study-flex-rooms": "tier-3",
+    "study-nash-first": "tier-3",
+    "study-nash-second": "tier-3",
+    "study-beyer-booth": "tier-3",
+    "study-quiet-corner": "tier-3"
+  },
+  "notes": {
+    "stitch": "skipped per brief directive 'use frontend-design plugin instead'",
+    "magic": "not available in session (no mcp__magic__ tools)",
+    "nano-banana-2": "skipped — illustrations hand-authored as Tier 3 inline SVG to keep the editorial aesthetic consistent and the deliverable self-contained",
+    "brand/ui-ux-pro-max/design-system": "brief.txt already contained the full voice framework, token palette, and typography direction these skills would produce; reusing brief as source of truth",
+    "design/ui-styling": "logo, section icons, and interactive components were hand-authored following brief tokens; skills themselves not invoked",
+    "firecrawl": "scraped https://compass.puspa.store/ — markdown pulled, content used to populate dining/study/events/tips/contact sections",
+    "frontend-design": "skill invoked — shaped 'Varsity Editorial' aesthetic (Fraunces serif display + Archivo UI + Inter body, paper-grain texture, NSWE typographic motif, compass-rose hero)"
+  }
+}
